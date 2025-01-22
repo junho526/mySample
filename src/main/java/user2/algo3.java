@@ -1,5 +1,5 @@
-package sample;
+package user2;
 
-public class algo1 {
+public class algo3 {
     public static void main(String[] args) {}
 }
